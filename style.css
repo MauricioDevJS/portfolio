@@ -6,5 +6,7 @@
 }
 
 body{
-    background-color: blue;
+    background: linear-gradient(rgb(61, 59, 59),rgb(11, 177, 94));
+    background-repeat: no-repeat;
+    width: 100%;
 }
